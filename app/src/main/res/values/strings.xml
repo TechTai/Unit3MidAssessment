@@ -4,4 +4,6 @@
     <string name="title_activity_recycler">RecyclerActivity</string>
     <string name="save_button">Save</string>
     <string name="submit_button">Submit</string>
+    <string name="sign_in">You have successfully signed in.</string>
+    <string name="title_activity_display">DisplayActivity</string>
 </resources>
