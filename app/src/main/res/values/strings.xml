@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WhatIsMyAddress</string>
+    <string name="email_hint">Enter your email address.</string>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+    <string name="save_button">Save</string>
+    <string name="submit_button">Submit</string>
 </resources>
